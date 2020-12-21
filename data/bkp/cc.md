@@ -1,0 +1,358 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- namaste
+- namaskaar
+- namasate ji
+- hello sonam
+- हेलो
+- हेलो रिया
+- सुप्रभात
+- गुड मॉर्निंग
+- गुड मॉर्निंग हां मैं बोल रहा हूं
+- सुप्रभात रिया
+- कैसी हो
+- लव
+
+## intent:take_date_time
+- आदि
+- [second tuesday of next month](TakeDateTime_date)
+- [first monday of next month](TakeDateTime_date)
+- [next month 1st Monday](TakeDateTime_date)
+- [28 march](TakeDateTime_date) on same time
+- [28 may](TakeDateTime_date) [at 5 pm](TakeDateTime_time)
+- [25 march](TakeDateTime_date) at same time
+- same day [5 in evening](TakeDateTime_time)
+- same day at [5 pm](TakeDateTime_time)
+- [next to next monday](TakeDateTime_date)
+- [friday after next week](TakeDateTime_date)
+- [1st of march](TakeDateTime_date) [5  in evening](TakeDateTime_time)
+- [tomorrow](TakeDateTime_date) at this time
+- [tomorrow](TakeDateTime_date) [right now](TakeDateTime_time)
+- [last saturday of this month](TakeDateTime_date)
+- [next to next friday](TakeDateTime_date)
+- [friday](TakeDateTime_date) [10 am](TakeDateTime_time)
+- [friday](TakeDateTime_date) [7pm](TakeDateTime_time)
+- [monday](TakeDateTime_date) [5 pm](TakeDateTime_time)
+- [thursday](TakeDateTime_date) [7pm](TakeDateTime_time)
+- [tuesday](TakeDateTime_date) [6pm](TakeDateTime_time)
+- [wednesday](TakeDateTime_date)  [6pm](TakeDateTime_time)
+- [6 pm](TakeDateTime_time)
+- [5 pm](TakeDateTime_time)
+- [4 pm](TakeDateTime_time)
+- [3 pm](TakeDateTime_time)
+- [2 pm](TakeDateTime_time)
+- [1 pm](TakeDateTime_time)
+- [12 am](TakeDateTime_time)
+- [11am](TakeDateTime_time)
+- [10 am](TakeDateTime_time)
+- [4am](TakeDateTime_time)
+- this [friday](TakeDateTime_date)
+- [3am](TakeDateTime_time)
+- [friday](TakeDateTime_date)
+- [sunday](TakeDateTime_date)
+- [saturday](TakeDateTime_date)
+- [Wednesday](TakeDateTime_date)
+- [Tuesday](TakeDateTime_date)
+- [thursday](TakeDateTime_date)
+- [monday](TakeDateTime_date)
+- [2am](TakeDateTime_time)
+- [1 am](TakeDateTime_time)
+- ok change my time to [9 am](TakeDateTime_time)
+- ok do it for next [monday](TakeDateTime_date)
+- do it for [tuesday](TakeDateTime_date)
+- schedule it for next [monday](TakeDateTime_date)
+- change my time to [3 in the morning](TakeDateTime_time)
+- update my time to [5 in the evening](TakeDateTime_time)
+- update my  time to  [5 pm](TakeDateTime_time)
+- [5 june](TakeDateTime_date) at [6 pm](TakeDateTime_time)
+- [28 feb](TakeDateTime_date) at [9 am](TakeDateTime_time)
+- [tomorrow](TakeDateTime_date) at [5 pm](TakeDateTime_time)
+- [9 am](TakeDateTime_time)
+- [28 feb](TakeDateTime_date)
+- [tomorrow](TakeDateTime_date)
+- [today](TakeDateTime_date)
+- kal
+- aaj
+- parso
+- kal karenge
+- kal kar denge
+- kal kardungi
+- aaj kar dungi
+- kal ho jayega
+- parson kardunga
+- parso kardunga
+- parson kardungi
+- aaj ho jayega
+- parso hojayega
+- parson karungi
+- parso karti hu
+- kal karta hun
+- aaj kartin hu
+- kal kartin hun
+- cal
+- parson
+- persoo
+- persoon
+- आज कर दूंगा
+- कल कर दूंगा
+- कल करते हैं
+- किसी और दिन
+- अगले हफ्ते
+- अगले महीने और लूंगा
+- सोमवार को
+- मंगलवार और दूंगा
+- गुरुवार को
+- शुक्रवार को
+- शनिवार को
+- अगले रविवार को कर दूंगा
+- अभी पेमेंट कर देता हूं
+- फरवरी में
+- किसी अन्य तिथि को
+- specific date
+- चार पांच दिन बाद
+- अगले साल
+- आज
+- कल
+- परसों
+- मैं भुगतान बुधवार करूंगा
+- किती और तिथि को
+- मैं कल पेमेंट करूंगा
+- जनवरी में शायद
+- कल करूंगा
+- परसों करूंगा
+- 13th of July
+- मैं अभी काम करता हूं मैंने एक साल बाद जमा करता हूं
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+- baad me milte hai
+
+## intent:introduction
+- this is bot start query
+- introduction
+- intro
+- start
+- start conversation
+- convo
+- who are you
+- what is your name
+- who is it
+- whom am i speaking to
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+- ok
+- yes i am interested
+- interested
+- confirmed
+- i want it
+- i like it
+- i will love it
+- i want to take it
+- i accept it
+- i agree
+- han
+- alright
+- I am interested
+- yes i want
+- yes I am interested yes yes
+- sure I am interested
+- please schedule
+- ok schedule
+- okay I will
+- why not
+- yes thats alright
+- yes I do
+- exactly
+- yep thats ok
+- okay
+- for sure
+- sg
+- yes thats ok
+- yes you can do it
+- I dont mind
+- I do not mind
+- that one works
+- that works
+- sure why not
+- perfect
+- yep thats right
+- I think so
+- yes I agree
+- sure
+- sounds correct
+- sounds good
+- thats correct
+- go ahead
+- do it
+- thats fine
+- yeah
+- yes please
+- its okay
+- alright why not
+- right
+- it looks perfect
+- yes I can
+- yup
+- yep
+- confirm
+- absolutely
+- ji han
+- haa ji
+- haan
+- haan ji
+- ji haan
+- yes madam
+- yes yes
+- pure
+- cure
+- nose
+- chahiye mujhe
+- de do
+- hai
+- ji hai
+- kardunga
+- kaunga
+- ho jayega
+- hojayega
+- pakka kar dunga
+- wapas kar dunga
+- wapas kardunga
+- karenge
+- ji boliye
+- ha bolo
+- bol rahin hu
+- bol raha hu
+- bol rahi hu
+- mein hi hu
+- ha mein hi bol raha hu
+- बोलिए
+- जी हां जी हां
+- हां आप कर रहे हो
+- Yes का भुगतान करूंगा मैं
+- अजीत
+- हां जी
+- जी
+- हां
+- जी हां
+- हां जी बोलिए
+- हां हेलो
+- हां कर दूंगा
+- जीजा और दूंगा
+- जी बिल्कुल करूंगा
+- जी बिल्कुल
+- confirm को मैं कर दूंगा
+- आ
+- पूरा पूरा
+- कर दूंगा
+- कार्यवाही करता हूं
+- लाइन पर बने रहें या कुछ देर बाद कोशिश करें यह कॉल हसीन तुम हो जाएं
+- हां मैं बोल
+- का
+- पक्का बोल रहा हूं
+- तुझे
+- अच्छा जी
+- I have sufficient balance
+
+## intent:deny
+- no
+- never
+- I dont think so
+- dont like that
+- no way
+- not really
+- do not want it
+- do not need it
+- not interested
+- I dont need loan
+- No need of the loan
+- I am not interested
+- donot ever call me
+- I said i am not interested
+- I dont want your offer thanks.
+- I dont need it
+- please tell me other offers
+- can i get any other offer
+- is there any other offer
+- nah
+- Noh
+- Nooo
+- no i dont need
+- thanks but no
+- no no dont
+- na
+- na na
+- no it isnt
+- dont
+- nah i am good
+- no I cannot
+- nothing
+- no thats okay
+- no not realy
+- nope not really
+- nope
+- thanks but not this time
+- I disagree
+- no maybe next time
+- not this time
+- no dont
+- no we are good
+- donot want it
+- dont want it
+- ji nahi
+- bilkul nahi
+- nahi
+- na ji
+- kam padega
+- kahan hai
+- kaha hai
+- mushkil hai
+- kam hai
+- pura nahi hai
+- pura nahin hai
+- kaise karu
+- paise nahi hai
+- fund nahi hai
+- lockdown chal raha hai
+- income nahi hai
+- rupaye nahi hai
+- rupiya nahi hai
+- किसका भुगतान
+- नहीं करूंगा
+- जी नहीं
+- रॉन्ग नंबर
+- थोड़ा काम है
+- कम है थोड़ा
+- गलत नंबर है यह
+- अब मेरे खाते में पर्याप्त धनराशि नहीं है
+- ऐसा है मैं रास्ते में हूं बहुत बिजी हूं मैं बाद में बात करूंगा आपके
+- तुमको समझ नहीं आ रहा मैं रास्ते में हूं बाद में बात करता हूं
+- या कुछ देर बाद कोशिश करें
+- गलत बन्दे को कॉल किया है।
+- गलत नाम है।
+- अभी मेरे पास पैसा ही नहीं है
+- कहां है
+
+## intent:already_paid
+- already paid
+- i have already paid the emi
+- कर दिया है ऑलरेडी
+- मैंने ऑलरेडी कर दिया है
+
+## intent:thanks
+- ओके थैंक यू
+- थैंक यू भाई
+- ओके धन्यवाद
+- जी धन्यवाद

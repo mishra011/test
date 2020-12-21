@@ -1,0 +1,449 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- namaste
+- namaskaar
+- namasate ji
+- hello sonam
+- हेलो
+- हेलो रिया
+- सुप्रभात सुप्रभात
+- गुड मॉर्निंग
+- सुप्रभात
+- गुड मॉर्निंग रिया जी
+- हेलो रिया जी
+- सुकरान मेरा होगा
+
+## intent:take_date_time
+- आदि
+- [second tuesday of next month](TakeDateTime_date)
+- [first monday of next month](TakeDateTime_date)
+- [next month 1st Monday](TakeDateTime_date)
+- [28 march](TakeDateTime_date) on same time
+- [28 may](TakeDateTime_date) [at 5 pm](TakeDateTime_time)
+- [25 march](TakeDateTime_date) at same time
+- same day [5 in evening](TakeDateTime_time)
+- same day at [5 pm](TakeDateTime_time)
+- [next to next monday](TakeDateTime_date)
+- [friday after next week](TakeDateTime_date)
+- [1st of march](TakeDateTime_date) [5  in evening](TakeDateTime_time)
+- [tomorrow](TakeDateTime_date) at this time
+- [tomorrow](TakeDateTime_date) [right now](TakeDateTime_time)
+- [last saturday of this month](TakeDateTime_date)
+- [next to next friday](TakeDateTime_date)
+- [friday](TakeDateTime_date) [10 am](TakeDateTime_time)
+- [friday](TakeDateTime_date) [7pm](TakeDateTime_time)
+- [monday](TakeDateTime_date) [5 pm](TakeDateTime_time)
+- [thursday](TakeDateTime_date) [7pm](TakeDateTime_time)
+- [tuesday](TakeDateTime_date) [6pm](TakeDateTime_time)
+- [wednesday](TakeDateTime_date)  [6pm](TakeDateTime_time)
+- [6 pm](TakeDateTime_time)
+- [5 pm](TakeDateTime_time)
+- [4 pm](TakeDateTime_time)
+- [3 pm](TakeDateTime_time)
+- [2 pm](TakeDateTime_time)
+- [1 pm](TakeDateTime_time)
+- [12 am](TakeDateTime_time)
+- [11am](TakeDateTime_time)
+- [10 am](TakeDateTime_time)
+- [4am](TakeDateTime_time)
+- this [friday](TakeDateTime_date)
+- [3am](TakeDateTime_time)
+- [friday](TakeDateTime_date)
+- [sunday](TakeDateTime_date)
+- [saturday](TakeDateTime_date)
+- [Wednesday](TakeDateTime_date)
+- [Tuesday](TakeDateTime_date)
+- [thursday](TakeDateTime_date)
+- [monday](TakeDateTime_date)
+- [2am](TakeDateTime_time)
+- [1 am](TakeDateTime_time)
+- ok change my time to [9 am](TakeDateTime_time)
+- ok do it for next [monday](TakeDateTime_date)
+- do it for [tuesday](TakeDateTime_date)
+- schedule it for next [monday](TakeDateTime_date)
+- change my time to [3 in the morning](TakeDateTime_time)
+- update my time to [5 in the evening](TakeDateTime_time)
+- update my  time to  [5 pm](TakeDateTime_time)
+- [5 june](TakeDateTime_date) at [6 pm](TakeDateTime_time)
+- [28 feb](TakeDateTime_date) at [9 am](TakeDateTime_time)
+- [tomorrow](TakeDateTime_date) at [5 pm](TakeDateTime_time)
+- [9 am](TakeDateTime_time)
+- [28 feb](TakeDateTime_date)
+- [tomorrow](TakeDateTime_date)
+- [today](TakeDateTime_date)
+- kal
+- aaj
+- parso
+- kal karenge
+- kal kar denge
+- kal kardungi
+- aaj kar dungi
+- kal ho jayega
+- parson kardunga
+- parso kardunga
+- parson kardungi
+- aaj ho jayega
+- parso hojayega
+- parson karungi
+- parso karti hu
+- kal karta hun
+- aaj kartin hu
+- kal kartin hun
+- cal
+- parson
+- persoo
+- persoon
+- आज कर दूंगा
+- कल कर दूंगा
+- कल करते हैं
+- किसी और दिन
+- अगले हफ्ते
+- अगले महीने और लूंगा
+- सोमवार को
+- मंगलवार और दूंगा
+- गुरुवार को
+- शुक्रवार को
+- शनिवार को
+- अगले रविवार को कर दूंगा
+- अभी पेमेंट कर देता हूं
+- फरवरी में
+- किसी अन्य तिथि को
+- specific date
+- चार पांच दिन बाद
+- अगले साल
+- आज
+- कल
+- परसों
+- मैं भुगतान बुधवार करूंगा
+- किती और तिथि को
+- मैं कल पेमेंट करूंगा
+- जनवरी में शायद
+- कल करूंगा
+- परसों करूंगा
+- दिसंबर महीने में
+- कॉल करूंगा
+- हम भुगतान कर पाएंगे अगस्त के महीने में डर लगता उनका काम हो जाएगा करो ना खत्म हो जाएंगे
+- I think around 15th of July
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+- baad me milte hai
+
+## intent:introduction
+- this is bot start query
+- introduction
+- intro
+- start
+- start conversation
+- convo
+- who are you
+- what is your name
+- who is it
+- whom am i speaking to
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+- ok
+- yes i am interested
+- interested
+- confirmed
+- i want it
+- i like it
+- i will love it
+- i want to take it
+- i accept it
+- i agree
+- han
+- alright
+- I am interested
+- yes i want
+- yes I am interested yes yes
+- sure I am interested
+- please schedule
+- ok schedule
+- okay I will
+- why not
+- yes thats alright
+- yes I do
+- exactly
+- yep thats ok
+- okay
+- for sure
+- sg
+- yes thats ok
+- yes you can do it
+- I dont mind
+- I do not mind
+- that one works
+- that works
+- sure why not
+- perfect
+- yep thats right
+- I think so
+- yes I agree
+- sure
+- sounds correct
+- sounds good
+- thats correct
+- go ahead
+- do it
+- thats fine
+- yeah
+- yes please
+- its okay
+- alright why not
+- right
+- it looks perfect
+- yes I can
+- yup
+- yep
+- confirm
+- absolutely
+- ji han
+- haa ji
+- haan
+- haan ji
+- ji haan
+- yes madam
+- yes yes
+- pure
+- nose
+- chahiye mujhe
+- de do
+- hai
+- ji hai
+- kardunga
+- kaunga
+- ho jayega
+- hojayega
+- pakka kar dunga
+- wapas kar dunga
+- wapas kardunga
+- karenge
+- ji boliye
+- ha bolo
+- bol rahin hu
+- bol raha hu
+- bol rahi hu
+- mein hi hu
+- ha mein hi bol raha hu
+- बोलिए
+- जी हां जी हां
+- हां आप कर रहे हो
+- Yes का भुगतान करूंगा मैं
+- अजीत
+- हां जी
+- जी
+- हां
+- जी हां
+- हां जी बोलिए
+- हां हेलो
+- तेरी मां का पालन करेंगे
+- अच्छा अच्छा ही करेंगे
+- हां कर लो
+- था
+- आ
+- का
+- बोलो
+- यहां
+- यह
+- एंटी
+
+## intent:deny
+- no
+- never
+- I dont think so
+- dont like that
+- no way
+- not really
+- do not want it
+- do not need it
+- not interested
+- I dont need loan
+- No need of the loan
+- I am not interested
+- donot ever call me
+- I said i am not interested
+- I dont want your offer thanks.
+- I dont need it
+- please tell me other offers
+- can i get any other offer
+- is there any other offer
+- nah
+- Noh
+- Nooo
+- no i dont need
+- thanks but no
+- no no dont
+- na
+- na na
+- no it isnt
+- dont
+- nah i am good
+- no I cannot
+- nothing
+- no thats okay
+- no not realy
+- nope not really
+- nope
+- thanks but not this time
+- I disagree
+- no maybe next time
+- not this time
+- no dont
+- no we are good
+- donot want it
+- dont want it
+- ji nahi
+- bilkul nahi
+- nahi
+- na ji
+- kam padega
+- kahan hai
+- kaha hai
+- mushkil hai
+- kam hai
+- pura nahi hai
+- pura nahin hai
+- kaise karu
+- paise nahi hai
+- fund nahi hai
+- lockdown chal raha hai
+- income nahi hai
+- rupaye nahi hai
+- rupiya nahi hai
+- किसका भुगतान
+- नहीं करूंगा
+- रॉन्ग नंबर
+- सॉरी रॉन्ग नंबर
+- पिछले अगले जन्म में
+- अरे तेरी मां की आंख मारे
+- गलत नाम है।
+- गलत बन्दे को कॉल किया है।
+- अभी तो नहीं कर सकता
+- पैसे नहीं है अभी
+- मैं तो अभी पैसे नहीं है मेरे पास
+- अभी तो पैसे नहीं हैं
+- मैं करूं मेरे पास पैसे नहीं है
+
+## intent:payment_mode
+- [online](payment_mode_type)
+- [online](payment_mode_type) banking
+- [mobile]{"entity": "payment_mode_type", "value": "online"} banking
+- [internet]{"entity": "payment_mode_type", "value": "online"} banking
+- [direct]{"entity": "payment_mode_type", "value": "online"} payment
+- visiting the [branch](payment_mode_type)
+- i will pay [in person](payment_mode_type)
+- i will come to my home [branch](payment_mode_type)
+- i will [come to bank]{"entity": "payment_mode_type", "value": "branch"}
+- deposit [in bank]{"entity": "payment_mode_type", "value": "branch"}
+- [branch](payment_mode_type) aakar
+- [branch](payment_mode_type) me
+- [branch](payment_mode_type) aaunga
+- [branch](payment_mode_type) aaungi
+- [bank aakar]{"entity": "payment_mode_type", "value": "branch"}
+- [bank aaungi]{"entity": "payment_mode_type", "value": "branch"}
+- [branch](payment_mode_type) aa jaunga
+- [branch](payment_mode_type) aaungi
+- [bank aakar]{"entity": "payment_mode_type", "value": "branch"}
+- [bank aaungi]{"entity": "payment_mode_type", "value": "branch"}
+- [branch](payment_mode_type) aa jaunga
+- मैं [ब्रांच]{"entity": "payment_mode_type", "value": "branch"} में एक दान कर दूंगा
+- मैं [ऑनलाइन]{"entity": "payment_mode_type", "value": "online"} भुगतान करूंगा
+- [ब्रांच]{"entity": "payment_mode_type", "value": "branch"} ने आकर
+- [ऑनलाइन]{"entity": "payment_mode_type", "value": "online"} और दूंगा
+- [ब्रांच]{"entity": "payment_mode_type", "value": "branch"}
+- [ऑनलाइ]{"entity": "payment_mode_type", "value": "online"} बेकिंग
+- मैं [ऑनलाइन]{"entity": "payment_mode_type", "value": "online"} आ कर दूंगा
+- [ऑनलाइन]{"entity": "payment_mode_type", "value": "online"} पेटीएम कर दूंगा
+- मैं [ऑनलाइन]{"entity": "payment_mode_type", "value": "online"} पे करूंगा
+- [ऑनलाइन]{"entity": "payment_mode_type", "value": "online"} बैंकिंग हेतु कर दूंगा
+- [ऑनलाइन]{"entity": "payment_mode_type", "value": "online"}
+- [ब्रांच]{"entity": "payment_mode_type", "value": "branch"} में आईपी कर दूंगा
+- [ऑनलाइन]{"entity": "payment_mode_type", "value": "online"} करूंगा
+- [ब्रांच]{"entity": "payment_mode_type", "value": "branch"} में
+- मैं [ऑनलाइन](payment_mode_type) दूंगा
+- [ब्रांच]{"entity": "payment_mode_type", "value": "branch"} में अंतर
+- [ऑनलाइन]{"entity": "payment_mode_type", "value": "online"} बैंकिंग कर दूंगा
+- [ऑनलाइन]{"entity": "payment_mode_type", "value": "online"} पेमेंट कर दूंगा
+- पेटीएम यूपीआई क्यों बोल रहे हो कि मैं [ऑफलाइन](payment_mode_type) ऑफलाइन भुगतान करूंगा भ्रांतिमान
+- [ब्रांच]{"entity": "payment_mode_type", "value": "branch"} में आकर भुगतान करेंगे
+- हम तो सीधे [ब्रांच]{"entity": "payment_mode_type", "value": "branch"} जाएंगे
+- मैं अब [ब्रांच](payment_mode_type) करूंगा
+- मैं तो [अब ब्रांच](payment_mode_type) में आकर कर दूंगा कैश
+- [ब्रांच ब्रांच](payment_mode_type) में अगर कर दूंगा
+- [ब्रांच ब्रांच](payment_mode_type) में बोला तो [ब्रांच]{"entity":"payment_mode_type" "value": "branch"} में आकर कर दूंगा
+- Gujarat [branch](payment_mode_type)
+- मैं [ब्रांच](payment_mode_type) में आ कर दूंगा
+- मैं [ब्रांच](payment_mode_type) में आकर करूंगा
+
+## intent:online_payment_mode
+- paytm
+- bhim
+- UPI
+- phonepay
+- nift
+- n e f t
+- neft
+- imps
+- i m p s
+- online banking
+- credit card
+- debit card
+- u p i
+- एनएसटी
+- पेटीएम
+- पेटम
+- एन  ई अफ टी
+- यू पी आई
+- निफ्ट
+- ऐ टी ऍम
+- मैं पेटीएम से करूंगा
+- पेटीएम से करूंगा मैं पेमेंट
+- पेटीएम से करूंगा
+- मैं पेटीएम से पेमेंट करूंगा
+- यूपीआई से
+- यूपीआई कर दूंगा
+- पेटीएम कर दूंगा
+- यूपीआई पेमेंट मार दूंगा
+- I will pay by Paytm
+- quick pay by Paytm
+- यूपी
+
+## intent:branch_payment_mode
+- demand draft
+- cash
+- d d
+
+## intent:already_paid
+- मैंने ऑलरेडी कर दिया है
+- कर दिया है ऑलरेडी
+
+## synonym:branch
+- come to bank
+- in bank
+- bank aakar
+- bank aaungi
+- ब्रांच
+- in person
+- अब ब्रांच
+
+## synonym:online
+- mobile
+- internet
+- direct
+- ऑनलाइन
+- ऑनलाइ
+- ऑफलाइन
