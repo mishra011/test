@@ -1,2 +1,0 @@
-## intent:thanks
-- thanks
